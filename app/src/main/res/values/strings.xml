@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Java Demos</string>
+    <string name="demo_project">Demo Project</string>
+    <string name="sample_button">Show Alert Dialog</string>
+    <string name="fragment_example">Fragment Example</string>
+    <string name="dynamic_fragment_example">Dynamic Fragment Example</string>
+    <string name="fragment_demo">Demo Fragment</string>
+    <string name="fragment_demo1">Sample Fragment 1</string>
+    <string name="fragment_demo2">Sample Fragment 2</string>
+    <string name="sample_button1">Sample Button 1</string>
+    <string name="sample_button2">Sample Button 2</string>
+    <string name="load_web_view">Load WebView</string>
+    <string name="load_list_of_data">Load List of Data</string>
+    <string name="demonstrate_recyclerView">Demonstrate RecyclerView</string>
+    <string name="data_binding">Data Binding Example</string>
+    <string name="mvvm_api_call">MVVM &amp; API Call</string>
+    <string name="dagger2_example">Dagger2 (Dependency Injection) Example</string>
+</resources>
